@@ -3,7 +3,7 @@
 
 int main()
 {
-	fun1();
+	printf("edit git hub");
 	fun2();
 	printf("hello git!");
 	fun1();
