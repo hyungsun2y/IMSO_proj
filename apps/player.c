@@ -5,6 +5,7 @@ int main()
 {
 	fun1();
 	fun2();
+	printf("hello git!");
 	return 0;
 }
 
