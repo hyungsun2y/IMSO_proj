@@ -3,7 +3,6 @@
 
 int main()
 {
-	fun1();
 	run2();
 	printf("hello git!");
 	fun1();
